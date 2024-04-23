@@ -3,7 +3,7 @@ import { Montserrat } from 'next/font/google'
 
 import { montserratRegular } from '@/public/fonts'
 
-import './globals.sass'
+import './globals.css'
 
 const montserratGoogle = Montserrat({
   subsets: ['latin'],

@@ -9,8 +9,8 @@ const montserratGoogle = Montserrat({
 
 const NotFound = () => {
   return (
-    <div className={`h-[100vh] flex flex-col items-center justify-center bg-black ${montserratGoogle.variable} text-4xl text-white`}>
-      <p className="mb-[1.6rem]">
+    <div className={`h-[100vh] flex flex-col items-center justify-center bg-black ${montserratGoogle.variable} text-xl text-white`}>
+      <p className="mb-[1.2rem]">
         404 <span className="text-[#FF153F]">ERROR</span> PAGE NOT FOUND
       </p>
       <div className="group">
